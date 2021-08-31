@@ -33,7 +33,6 @@ __Sacramento State University__
 \
 &nbsp;
 ## EXPERIENCE
---- 
 ### Assistant Director, International and ELL Students, Academic Center for Excellence 
 
 __Bryant University__ *(Smithfield, Rhode Island)* 
