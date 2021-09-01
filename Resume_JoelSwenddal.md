@@ -75,8 +75,8 @@ August 2012 – December 2015
 
 ## SKILLS
 
-__Proficient__: Python (including Pandas and Matplotlib), Excel, Access  
-__Developing__: Javascript, Express, React, MongoDB, SQL, x86 Assembly  
+__Proficient__: Python (including Pandas and Matplotlib), Excel  
+__Developing__: Javascript, Express, React, MongoDB, SQL, x86 Assembly, Access   
 __Familiar__: C++
 \
 &nbsp;
