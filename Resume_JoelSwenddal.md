@@ -1,6 +1,6 @@
 # JOEL SWENDDAL
 
-### *Computer Science student with education background*
+### *Computer Science student with education industry background*
 \
 &nbsp;
 +1(401)696-7586  &nbsp;|  &nbsp;joel.swenddal@gmail.com &nbsp; | &nbsp; [github.com/joelswenddal](https://github.com/joelswenddal) &nbsp; | &nbsp;[linkedin.com/in/joel-swenddal](https://www.linkedin.com/in/joel-swenddal-488293117/)
@@ -21,14 +21,12 @@ Courses Completed to Date: *Data Structures, Web Development, Computer Architect
 \
 &nbsp; 
 
-__Master of Arts, Teaching English to Speakers of Other Languages__ (4.0) 
-
+__Master of Arts, Teaching English to Speakers of Other Languages__ (4.0)  
 __San Francisco State University__
 \
-&nbsp;    
+&nbsp;   
 
-__Bachelor of Arts, Studio Art__ (3.8) 
-
+__Bachelor of Arts, Studio Art__ (3.8)  
 __Sacramento State University__
 \
 &nbsp;
