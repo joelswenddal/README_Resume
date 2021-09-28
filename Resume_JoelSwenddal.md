@@ -75,7 +75,7 @@ August 2012 – December 2015
 
 ## TECHNICAL SKILLS
 
-__Proficient__: Python (including Pandas and Matplotlib), Excel
+__Proficient__: Python (including Pandas and Matplotlib), Excel  
 __Developing__: Javascript, Express, React, MongoDB, SQL, x86 Assembly, C, Unix Shell, Access, HTML, CSS  
 __Familiar__: C++
 \
