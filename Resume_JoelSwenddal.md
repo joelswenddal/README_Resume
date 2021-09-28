@@ -1,6 +1,6 @@
 # JOEL SWENDDAL
 
-### *Computer Science student with education industry background*
+### *Computer Science student with education field background*
 \
 &nbsp;
 +1(401)696-7586  &nbsp;|  &nbsp;joel.swenddal@gmail.com &nbsp; | &nbsp; [github.com/joelswenddal](https://github.com/joelswenddal) &nbsp; | &nbsp;[linkedin.com/in/joel-swenddal](https://www.linkedin.com/in/joel-swenddal-488293117/)
