@@ -1,6 +1,6 @@
 # JOEL SWENDDAL
 
-### *Computer Science student with education field background*
+### *Computer Science student with strong communication and project management skills*
 \
 &nbsp;
 +1(401)696-7586  &nbsp;|  &nbsp;joel.swenddal@gmail.com &nbsp; | &nbsp; [github.com/joelswenddal](https://github.com/joelswenddal) &nbsp; | &nbsp;[linkedin.com/in/joel-swenddal](https://www.linkedin.com/in/joel-swenddal-488293117/)
@@ -9,7 +9,7 @@
 
 ## SUMMARY
 
-Higher-education professional implementing a career transition to software engineering and development. Seeking entry-level software development experiences (e.g. internships or co-ops) and eager to contribute to innovative organizations. 
+Entry-level software developer implementing a career transition from the education field. Seeking formative, hands-on development experiences (e.g. internships or co-ops) to complement course-based learning while making a meaningful contribution to an innovative organization. 
 \
 &nbsp;
 
@@ -19,7 +19,7 @@ __Bachelor of Science, Computer Science__ (*Currently 4.0; anticipated completio
 __Oregon State University__  
 Courses Completed to Date: *Data Structures, Web Development, Computer Architecture and Assembly Language, Introduction to Computer Science I and II, Discrete Mathematics*  
 
-Current Courses: *Databases, Operating Systems (Fall 2021)*
+Current Courses: *Databases, Systems Programming (Fall 2021)*
 \
 &nbsp; 
 
@@ -28,10 +28,6 @@ __San Francisco State University__
 \
 &nbsp;   
 
-__Bachelor of Arts, Studio Art__ (3.8)  
-__Sacramento State University__
-\
-&nbsp;
 ## EXPERIENCE
 ### Assistant Director, International and ELL Students, Academic Center for Excellence 
 
@@ -47,7 +43,7 @@ Relevant technology projects:
 
 - Developed browser app to help academic advisors quickly calculate students’ GPAs 
 
-- Developed online tutorials to support on-boarding of incoming students (Articulate Storyline) 
+- Developed online tutorials to support on-boarding of new students (Articulate Storyline) 
 \
 &nbsp;
 
@@ -75,13 +71,14 @@ August 2012 – December 2015
 
 ## TECHNICAL SKILLS
 
-__Proficient__: Python (including Pandas and Matplotlib), Excel  
+__Proficient__: Python, Excel  
 __Developing__: Javascript, Express, React, MongoDB, SQL, x86 Assembly, C, Unix Shell, Access, HTML, CSS  
 __Familiar__: C++
 \
 &nbsp;
 ## OTHER SKILLS
 - Strong communication skills
+- Reports and technical writing
 - Project management (i.e. Agile methods)
 - Organized and outcome-focused
 - Enthusiastic and productive teammember
