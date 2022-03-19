@@ -1,25 +1,20 @@
 # JOEL SWENDDAL
 
-### *Computer Science student with strong communication and project management skills*
-\
 &nbsp;
 +1(401)696-7586  &nbsp;|  &nbsp;joel.swenddal@gmail.com &nbsp; | &nbsp; [github.com/joelswenddal](https://github.com/joelswenddal) &nbsp; | &nbsp;[linkedin.com/in/joel-swenddal](https://www.linkedin.com/in/joel-swenddal-488293117/)
 \
 &nbsp;
 
 ## SUMMARY
-
-Entry-level software developer implementing a career transition from the education field. Seeking formative, hands-on development experiences (e.g. internships or co-ops) to complement course-based learning while making a meaningful contribution to an innovative organization. 
+Hard-working junior software developer transitioning from an initial career in higher education. Completing the BS (PostBacc) Computer Science program at Oregon State University in May 2023--currently earning a 4.0 GPA. Seeking opportunities to apply my coding skills, project management expertise, and collegiality to a software development or IT context. 
 \
 &nbsp;
 
 ## EDUCATION
 
-__Bachelor of Science, Computer Science__ (*Currently 4.0; anticipated completion in December 2022*)   
+__Bachelor of Science, Computer Science__ (*Currently 4.0; anticipated completion in Spring 2023*)   
 __Oregon State University__  
-Courses Completed to Date: *Data Structures, Web Development, Computer Architecture and Assembly Language, Introduction to Computer Science I and II, Discrete Mathematics*  
-
-Current Courses: *Databases, Systems Programming (Fall 2021)*
+Courses Completed to Date: *Data Structures, Algorithms, Web Development, Networking, Operating Systems/Systems Programming, Databases, Computer Architecture & Assembly Language, Intro to Computer Science I and II, Discrete Mathematics*  
 \
 &nbsp; 
 
@@ -37,13 +32,17 @@ August 2018 – October 2021
 
 Relevant technology projects: 
 
-- Performed data analysis (Python, Access) to identify students at risk of academic challenges 
+- Improved student retention by using data-analysis (Python, Access) to identify students at-risk
 
-- Developed analytics dashboard to track unit performance against service-delivery metrics (Python) 
+- Developed analytics dashboard to track unit performance against service-delivery metrics (Python)
 
-- Developed browser app to help academic advisors quickly calculate students’ GPAs 
+- Developed browser app to help academic advisors quickly calculate student GPAs (saved time in advising appointments)
 
-- Developed online tutorials to support on-boarding of new students (Articulate Storyline) 
+- Provided in-department IT troubleshooting for education software users (e.g. Canvas, Blackboard)
+
+- Administered in-house student-support database (TutorTrac) to ensure data reliability and security
+
+- Developed online tutorials to support on-boarding of incoming students (Articulate Storyline)
 \
 &nbsp;
 
@@ -55,7 +54,7 @@ December 2015 – July 2018
 
 Relevant technology projects: 
 
-- Developed custom database for collecting and managing data on student support activities 
+- Developed custom database for collecting and managing data on student support activities (tutoring)
 
 - Designed and managed a website of self-access interactive language-learning materials
 \
@@ -72,15 +71,16 @@ August 2012 – December 2015
 ## TECHNICAL SKILLS
 
 __Proficient__: Python, Excel  
-__Developing__: Javascript, Express, React, MongoDB, SQL, x86 Assembly, C, Unix Shell, Access, HTML, CSS  
+__Developing__: Javascript, Express, MongoDB, SQL, x86 Assembly, C, Unix Shell, Access, HTML, CSS  
 __Familiar__: C++
 \
 &nbsp;
-## OTHER SKILLS
+## OTHER SKILLS/ATTRIBUTES
 - Strong communication skills
 - Reports and technical writing
 - Project management (i.e. Agile methods)
 - Organized and outcome-focused
+- Independent and self-directed
 - Enthusiastic and productive teammember
 \
 &nbsp; 
