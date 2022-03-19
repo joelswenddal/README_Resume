@@ -54,7 +54,7 @@ December 2015 – July 2018
 
 Relevant technology projects: 
 
-- Developed custom database for collecting and managing data on student support activities (tutoring)
+- Developed relational database and application for collecting and managing data on student support activities (tutoring)
 
 - Designed and managed a website of self-access interactive language-learning materials
 \
@@ -72,7 +72,7 @@ August 2012 – December 2015
 
 __Proficient__: Python, Excel  
 __Developing__: Javascript, Express, MongoDB, SQL, x86 Assembly, C, Unix Shell, Access, HTML, CSS  
-__Familiar__: C++
+__Familiar__: C++, React
 \
 &nbsp;
 ## OTHER SKILLS/ATTRIBUTES
