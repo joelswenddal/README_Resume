@@ -5,7 +5,7 @@
 &nbsp;
 ## PROFILE SUMMARY
 ---
-Entry-level software developer graduating with a BS (Computer Science) in Fall 2022. Proficient in a range of technologies for deploying full-stack applications in the Cloud. Familiar with all stages of the software development life-cycle and skilled at quickly acquiring knowledge needed to achieve project goals.
+Entry-level software developer graduating with a BS (Computer Science) in Fall 2022. Proficient in a range of technologies for deploying full-stack applications in the Cloud. Familiar with all stages of the software development life-cycle. Outcome-focused and skilled at quickly acquiring knowledge needed to achieve project goals.
 \
 &nbsp;
 
@@ -97,7 +97,7 @@ __Familiar__: MongoDB, Docker, React
 ## CONTACT
 ---
 
-+1(401)696-7586
++1 (401) 696-7586
 
 joel.swenddal@gmail.com
 
