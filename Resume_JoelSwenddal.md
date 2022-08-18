@@ -11,13 +11,14 @@ Entry-level software developer graduating with a BS (Computer Science) in Fall 2
 
 ## EDUCATION
 ---
-__Bachelor of Science, Computer Science__ (Currently 4.0; anticipated completion in Fall 2022)   
+__Bachelor of Science, Computer Science__ (Currently 4.0; anticipated completion in Fall 2022)
+
 __Oregon State University__  
-Courses Completed to Date include: *Data Structures, Analysis of Algorithms, Web Development, Databases, System Programming, Computer Architecture and Assembly Language, Introduction to Computer Science I and II, Discrete Mathematics, Cloud Application Development, Networking* 
+Courses completed to date include: *Data Structures, Analysis of Algorithms, Web Development, Databases, System Programming, Computer Architecture and Assembly Language, Discrete Mathematics, Cloud Application Development, Networking, Software Engineering I and II* 
 \
 &nbsp; 
 
-__Master of Arts, English (Education)__ (4.0) 
+__Master of Arts, English (Education)__ (4.0)
 
 __San Francisco State University__
 \
